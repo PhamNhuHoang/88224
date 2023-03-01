@@ -1,0 +1,7 @@
+Welcome to test.txt file.
+This is a test file.
+Pham Nhu Hoang.
+Huy.
+An.
+Nam.
+Manh.
